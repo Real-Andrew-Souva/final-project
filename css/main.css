@@ -162,3 +162,7 @@ section ul li:nth-child(even) {
     background: #CAEBF2;
     color: #000;
 }
+
+.valid {
+    float: right;
+}
